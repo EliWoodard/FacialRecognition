@@ -52,11 +52,8 @@ def resourceChecker():
     global milk
 
     if water >= waterUsage:
-
         if coffee >= coffeeUsage:
-
             if milk >= milkUsage:
-
                 water = water - waterUsage
                 coffee = coffee - coffeeUsage
                 milk = milk - milkUsage
@@ -64,10 +61,8 @@ def resourceChecker():
 
             else:
                 print("Not enough milk")
-
         else:
             print("Not enough coffee")
-
     else:
         print("Not enough water")
 
