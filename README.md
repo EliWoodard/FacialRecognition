@@ -1,5 +1,5 @@
 # PythonProjects
-## Date: 9/27/2022
-### This repository will include all the python projects from the 100 days of Python code tutorial. 
+## Date: 11/22/2022
+### This repository will Include all Python Projects from the 100 days of Python code Tutorial. 
 - Day 15 CoffeeMachine Project
 - Day 17 TriviaQuiz Project
